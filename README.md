@@ -1,2 +1,2 @@
-# ChatManager
-ChatManager is a Chat Management Plugin used to enhance your Unturned Chat.
+# Roles
+Roles is a plugin used to help distinguish player's groups.
